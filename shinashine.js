@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.effectivegatetocontent.com/i6ciwgnk?key=539b0ab00b29975e93dc81b43c46fe90"
+                            "https://www.trustedcpmrevenue.com/pgek5zhm?key=51b1857ecb23b1e6392c2b4b13f842fb"
                         ]);
 
     var ars             = rChoice([
