@@ -7,7 +7,7 @@ var go_current     	= window.location.href;
 	}
 
     var direct_link_ads = rChoice([
-                            "https://blisterpompey.com/pgek5zhm?key=51b1857ecb23b1e6392c2b4b13f842fb"
+                            "https://tokenvolatilebreaker.com/pgek5zhm?key=51b1857ecb23b1e6392c2b4b13f842fb"
                         ]);
 
     var ars             = rChoice([
